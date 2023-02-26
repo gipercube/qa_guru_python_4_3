@@ -5,9 +5,5 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-<<<<<<< HEAD
-    print_hi('PyCharm conflict 4')
-=======
-    print_hi('PyCharm')
->>>>>>> parent of 9202fd6 (Print: PyCharm master conflict)
+    print_hi('PyCharm conflict 5')
 
